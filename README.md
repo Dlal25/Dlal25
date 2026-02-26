@@ -1,20 +1,19 @@
-<h1 align="center">Dlal</h1>
-<h3 align="center">Computer Science Student | Future Software Engineer</h3>
+<h2 align="center">Dlal</h2>
+<p align="center">Computer Science Student | Future Software Engineer</p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dlal25/Dlal25/main/banner.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/Dlal25/Dlal25/main/banner.png" width="420"/>
 </p>
 
 ---
 
 ## 💡 About Me
 
-- 🎓 Computer Science Student
-- 💻 Focused on Frontend Development
-- 🎨 Love Clean UI & Dark Aesthetic
-- 🚀 Building My Future One Line At A Time
+- 🎓 Computer Science Student  
+- 💻 Interested in Frontend Development  
+- 🎨 Love Dark UI & Clean Design  
 
 ---
 
@@ -43,7 +42,7 @@
 ## 🧠 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css" height="70"/>
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css" height="60"/>
 </p>
 
 ---
@@ -51,19 +50,7 @@
 ## ⚙️ Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux" height="70"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dlal25&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dlal25&theme=github_dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux" height="60"/>
 </p>
 
 ---
