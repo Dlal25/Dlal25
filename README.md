@@ -4,16 +4,12 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dlal25/Dlal25/main/banner.png" width="420"/>
+  <img src="mygif.gif" width="400"/>
 </p>
 
 ---
 
-## 💡 About Me
-
-- 🎓 Computer Science Student  
-- 💻 Interested in Frontend Development  
-- 🎨 Love Dark UI & Clean Design  
+## 💡 “Crafting logic and elegance in every line of code.”
 
 ---
 
