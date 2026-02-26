@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dlal</h1>
+<h3 align="center">Computer Science Student</h3>
 
-<!--
-**Dlal25/Dlal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="mailto:yourmail@gmail.com">Gmail</a> |
+<a href="#">LinkedIn</a> |
+<a href="#">Instagram</a> |
+<a href="#">Discord</a>
+</p>
+
+---
+
+## 🧠 Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css" />
+</p>
+
+---
+
+## ⚙️ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dlal25&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dlal25&theme=tokyonight" />
+</p>
+
+![](https://komarev.com/ghpvc/?username=Dlal25&color=blue)
