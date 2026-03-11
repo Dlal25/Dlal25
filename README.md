@@ -1,5 +1,7 @@
 <h1 align="center">Dlal khadidja</h1>
 <h3 align="center">Computer Science Student | Frontend Developer</h3>
+
+
 ## 🌌 About Me
 - 🎓 Computer Science Student  
 - 💻 Passionate about Web Development  
