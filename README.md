@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Frontend Developer</h3>
 
 
-## 🌌 About Me
+## 🥀 About Me
 - 🎓 Computer Science Student  
 - 💻 Passionate about Web Development  
 - 🎯 Focused on Clean UI & Modern Design  
@@ -10,7 +10,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="mailto:yourmail@gmail.com">
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧠 Skills
+##  Skills
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,c,js,html,css" height="70"/>
@@ -37,7 +37,7 @@
 
 ---
 
-## ⚙️ Tools
+##  Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" height="70"/>
@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dlal25&show_icons=true&theme=radical&hide_border=true" height="170"/>
