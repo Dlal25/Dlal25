@@ -4,10 +4,7 @@
 
 ## 🥀 About Me
 - 🎓 Computer Science Student  
-- 💻 Passionate about Web Development  
-- 🎯 Focused on Clean UI & Modern Design  
-- 🚀 Always Learning New Technologies  
-
+   
 ---
 
 ##  Skills
